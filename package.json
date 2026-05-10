@@ -1,0 +1,23 @@
+{
+  "name": "cypress-c",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aquillare/Cypress-C.git"
+  },
+  "author": "Miguel Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aquillare/Cypress-C/issues"
+  },
+  "homepage": "https://github.com/Aquillare/Cypress-C#readme",
+  "devDependencies": {
+    "cypress": "^15.14.2",
+    "prettier": "^3.8.3"
+  }
+}
