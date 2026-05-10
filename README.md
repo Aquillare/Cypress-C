@@ -1,2 +1,2 @@
 # Cypress-C
-Cypress Course
+Curso de Cypress 
